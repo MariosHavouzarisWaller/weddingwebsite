@@ -1,7 +1,7 @@
-const SITE_URL = "https://doriandmarios.com";
-
 export default {
   async fetch(request, env) {
+
+    const SITE_URL = env.SITE_URL;
     const url = new URL(request.url);
 
     const cookies = request.headers.get("Cookie") || "";
