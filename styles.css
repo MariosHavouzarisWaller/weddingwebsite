@@ -76,7 +76,7 @@ summary {
   text-decoration: none;
 
   font-family: var(--serif);
-  font-size: 13px;
+  font-size: 17px;
   letter-spacing: 0.02em;
 
   transition: opacity 0.2s ease;
@@ -130,7 +130,7 @@ summary {
   margin-top: 24px;
 
   font-family: var(--serif);
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.15;
 }
 
@@ -169,12 +169,12 @@ summary {
 .rsvp-intro {
 
   font-family: var(--serif);
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .rsvp-details {
   font-family: var(--serif);
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.25;
 
   margin-top: 20px;
@@ -471,7 +471,7 @@ summary {
 }
 
 .hero-font {
-  font-size: 14px;
+  font-size: 16px;
   font-family: var(--serif);
   line-height: 1.25;
 }
